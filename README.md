@@ -14,10 +14,10 @@ My work bridges hardware systems with data-driven intelligence—combining pract
 
 | Area | Skills & Tools |
 | :--- | :--- |
-| **Programming** | Python, C++ (Embedded/Arduino) |
+| **Programming** | Python,(Embedded/Arduino) |
 | **Data Science & ML** | pandas, NumPy, scikit-learn, Data Analysis, Visualization, Data Modeling |
 | **IoT & Hardware** | ESP32, ESP8266, Arduino, Sensors Integration, Wireless Networking |
-| **Tools & Platforms** | Jupyter Notebook, Git, GitHub, Arduino IDE |
+| **Tools & Platforms** | Jupyter Notebook, GitHub, Arduino IDE |
 | **Foundations** | Data Structures, Mathematics, Statistics, Computer Networks |
 
 ---
@@ -40,7 +40,7 @@ Designed and built hands-on hardware systems integrating microcontrollers (ESP32
 Developed analytical notebooks focused on data cleaning, statistical exploration, visualization, and predictive modeling using Python's core data science ecosystem.  
 *Stack: Python · pandas · NumPy · scikit-learn · Jupyter Notebook*
 
-*(Note: You can add links and brief descriptions for 1–2 specific repositories here once uploaded)*
+
 
 ---
 
@@ -53,10 +53,11 @@ Developed analytical notebooks focused on data cleaning, statistical exploration
 
 ---
 
-## Certifications
+## Certifications and achievements
 
-- **Data Science Certification** · Cisco Networking Academy
-- **Python Essentials** · Cisco Networking Academy
+- **Data Science Certification** · Cisco Networking Academy 2025
+- **Python Essentials** · Cisco Networking Academy 2025
+- **event Organizer ** . Electronic Game Development & Design Competition, Faculty of IT & Computer Science, Yarmouk University *(July 2024)*
 
 ---
 
