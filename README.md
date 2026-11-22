@@ -57,7 +57,7 @@ Developed analytical notebooks focused on data cleaning, statistical exploration
 
 - **Data Science Certification** · Cisco Networking Academy 2025
 - **Python Essentials** · Cisco Networking Academy 2025
-- **event Organizer ** . Electronic Game Development & Design Competition, Faculty of IT & Computer Science, Yarmouk University *(July 2024)*
+-   event Organizer  . Electronic Game Development & Design Competition, Faculty of IT & Computer Science, Yarmouk University *(July 2024)*
 
 ---
 
